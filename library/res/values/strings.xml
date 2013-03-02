@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ImageFetcher</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="no_network_connection_toast">No network connection found</string>
+
+</resources>
